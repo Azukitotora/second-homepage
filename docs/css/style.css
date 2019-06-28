@@ -1,0 +1,34 @@
+@charset "UTF-8";
+
+body {
+background-image: url("../images/iro1.jpg");
+background-repeat: no-repeat;
+background-position: center center;
+background-attachment: fixed;
+background-size: cover;
+background-color: #464646;
+}
+
+.image_s{
+  width: 5%;
+  height: auto;
+  filter: invert(50%);
+  filter: drop-shadow(100%);
+}
+
+.sns_nav li{
+  display: inline;
+  margin-right: 2em;
+}
+
+a{
+  color: white;
+}
+
+.sns_nav{
+}
+
+.image_mm{
+  width: 65%;
+  height: auto;
+}
